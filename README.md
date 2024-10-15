@@ -2,7 +2,7 @@
 
 A sleek and interactive sliding login page built with HTML, CSS, and JavaScript. This project demonstrates an elegant way to implement a login form with a sliding effect, enhancing user experience and providing a modern interface for authentication.
 
-**Features**
+###**Features**
 Sliding Animation: A smooth sliding transition between the login and registration forms.
 Responsive Design: Optimized for both desktop and mobile views.
 Simple and Clean UI: Minimalistic design for easy integration into any project.
